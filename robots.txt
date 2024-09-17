@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arlateru.github.io/sitemap.html.gz
+Sitemap: https://arlateru.github.io/app/sitemap.html.gz
+Sitemap: https://arlateru.github.io/assets/sitemap.html.gz
+Sitemap: https://arlateru.github.io/css/sitemap.html.gz
+Sitemap: https://arlateru.github.io/includes/sitemap.html.gz
+Sitemap: https://arlateru.github.io/item/sitemap.html.gz
+Sitemap: https://arlateru.github.io/src/sitemap.html.gz
